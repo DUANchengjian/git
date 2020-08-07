@@ -31,7 +31,7 @@
 ## git log
 1. 查看操作日志
 
-## git reflg
+## git reflog
 1. 查看操作日志（简单版）
 
 ## git  diff 文件名
