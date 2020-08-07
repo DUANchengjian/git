@@ -1,6 +1,7 @@
 # readme
 
-+  项目说明文档-duan
++项目说明文档-duan
+更新的
 
 
 ## git init
